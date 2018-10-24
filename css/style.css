@@ -12,13 +12,7 @@
 }
 
 .ayuda{
-	text-align: right;
-}
-.bonos{
-	text-align: left;
-}
-
-.ayuda, .bono {
+	text-align: center;
 	padding-top: 0px;
 }
 
